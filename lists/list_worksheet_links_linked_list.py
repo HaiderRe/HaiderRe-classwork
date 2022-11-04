@@ -11,4 +11,4 @@ print(list2)
 #for i in range(0,len(list1) - 1): 
  #   if(not(list1[index] >= 80 and (list1[index] <=100))):
       #  list2.append(list1[index])
-#print(list2)           
+#print(list2)            
